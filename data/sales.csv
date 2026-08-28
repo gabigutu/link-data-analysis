@@ -1,0 +1,17 @@
+date,product,category,price,quantity,revenue,region
+2025-01-05,Laptop,Electronics,900,5,4500,Bucharest
+2025-01-07,Phone,Electronics,600,12,7200,Cluj
+2025-01-10,Headphones,Electronics,80,30,2400,Bucharest
+2025-01-14,Desk,Furniture,250,8,2000,Iasi
+2025-01-18,Chair,Furniture,120,15,1800,Cluj
+2025-01-22,Phone,Electronics,600,10,6000,Brasov
+2025-02-03,Laptop,Electronics,900,7,6300,Cluj
+2025-02-06,Desk,Furniture,250,12,3000,Bucharest
+2025-02-11,Headphones,Electronics,80,45,3600,Iasi
+2025-02-15,Chair,Furniture,120,20,2400,Brasov
+2025-02-20,Phone,Electronics,600,15,9000,Bucharest
+2025-03-02,Laptop,Electronics,900,4,3600,Iasi
+2025-03-08,Desk,Furniture,250,10,2500,Cluj
+2025-03-12,Headphones,Electronics,80,50,4000,Brasov
+2025-03-18,Chair,Furniture,120,18,2160,Bucharest
+2025-03-25,Phone,Electronics,600,14,8400,Cluj
