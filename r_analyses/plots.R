@@ -187,3 +187,9 @@ vanzari <- matrix(
 )
 vanzari
 vanzari[3,4]
+heatmap(vanzari)
+heatmap(vanzari, Rowv=NA, Colv=NA)
+heatmap(vanzari, Rowv=NA, Colv=NA, col=heat.colors(1000, rev=TRUE))
+heatmap(vanzari, Rowv=NA, Colv=NA, col=cm.colors(1000))
+rownames(vanzari) <- c("Incaltaminte", "Electronice", "Haine", "Jucarii")
+colnames(vanzari) <- c("Primavara", "Vara", "Toamna", "Iarna")
