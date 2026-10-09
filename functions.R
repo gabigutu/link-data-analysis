@@ -138,3 +138,6 @@ maimuta$varsta
 NA + NA
 NA * NA
 NA * NULL # integer(0)
+
+# library('vasilica')
+# printeaza('Test')
