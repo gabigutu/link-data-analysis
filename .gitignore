@@ -278,4 +278,4 @@ rsconnect/
 *.Rproj
 
 # Ignore folder containing Google Cloud keys
-google_cloud/keys
+*/keys
